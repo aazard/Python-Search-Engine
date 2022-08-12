@@ -2,6 +2,9 @@
 
 This is my project for the [Final Project of CS50](https://cs50.harvard.edu/x/2022/).
 
+A demo of a simple python search engine.
+Please see attached video for details.
+
 
 
 ## Video Demo
