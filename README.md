@@ -4,6 +4,7 @@ This is my project for the [Final Project of CS50](https://cs50.harvard.edu/x/20
 
 A demo of a simple python search engine.
 Please see attached video for details.
+[Youtube version of video](https://youtu.be/r6RtSmp64bI)
 
 
 
